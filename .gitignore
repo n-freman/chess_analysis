@@ -1,0 +1,6 @@
+venv/*
+.env
+.DS_Store
+chess_analysis.egg-info
+*pycache*
+data/
